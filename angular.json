@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ex-firebase-hosting"
+    }
+  },
+  "defaultProject": "ex-firebase-hosting",
+  "cli": {
+    "analytics": false
+  }
 }
